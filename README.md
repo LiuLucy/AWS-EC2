@@ -1,5 +1,7 @@
-1. 打開AWS網頁 
+![AWS](http://www.ureka.cc/weicloud/wp-content/uploads/sites/25/2017/11/AWS_Icons-300x200.png "AWS-Logo")
 
+
+1. 打開AWS網頁 
 https://aws.amazon.com/tw/free/?sc_channel=PS&sc_campaign=acquisition_TW&sc_publisher=google&sc_medium=cloud_computing_hv_b&sc_content=aws_core_e&sc_detail=aws&sc_category=cloud_computing&sc_segment=188864831666&sc_matchtype=e&sc_country=TW&s_kwcid=AL!4422!3!188864831666!e!!g!!aws&ef_id=WcNTggAAAF0IJ3l0:20180807011230:s&awsf.Free%20Tier%20Types=categories%23featured
 
 2. 登入Lucy的帳號（我幫你們登入）

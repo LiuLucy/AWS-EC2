@@ -3,13 +3,15 @@
 學習AWS EC2雲端主機
 =================
 
+
 ####1. 打開AWS網頁
-_ 
-        [官網連結](https://aws.amazon.com/tw/free/?sc_channel=PS&sc_campaign=acquisition_TW&sc_publisher=google&sc_medium=cloud_computing_hv_b&sc_content=aws_core_e&sc_detail=aws&sc_category=cloud_computing&sc_segment=188864831666&sc_matchtype=e&sc_country=TW&s_kwcid=AL!4422!3!188864831666!e!!g!!aws&ef_id=WcNTggAAAF0IJ3l0:20180807011230:s&awsf.Free%20Tier%20Types=categories%23featured)
+[官網連結](https://aws.amazon.com/tw/free/)
+
 ####2. 登入Lucy的帳號（我幫你們登入）
+
         輸入帳號密碼
 ####3. 進入後台後點選右上方的「登入主控台」
-/<br>
+<br>
 ####4. 找到「EC2」:全名（Amazon Elastic Compute Cloud (Amazon EC2)）
 
         稱為有彈性的雲端主機，在前期可以避免投入在硬體中，可以快速的在主機上開發以及部署應用程式，使用EC2根據自身的需求可以調整雲端主機的數量、安全、網路和管理儲存。EC2也可以用來應對高峰期的流量等...

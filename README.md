@@ -4,15 +4,16 @@
 =================
 
 
-1.打開AWS網頁
+### 1.打開AWS網頁
 [官網連結](https://aws.amazon.com/tw/free/)
 
-2.登入Lucy的帳號（我幫你們登入）
+### 2.登入Lucy的帳號（我幫你們登入）
 
         輸入帳號密碼
+
 3.進入後台後點選右上方的「登入主控台」
-<br>
-4.找到「EC2」:全名（Amazon Elastic Compute Cloud (Amazon EC2)）
+
+4.找到「EC2」Amazon Elastic Compute Cloud (Amazon EC2)）
 
         稱為有彈性的雲端主機，在前期可以避免投入在硬體中，可以快速的在主機上開發以及部署應用程式，使用EC2根據自身的需求可以調整雲端主機的數量、安全、網路和管理儲存。EC2也可以用來應對高峰期的流量等...
 
